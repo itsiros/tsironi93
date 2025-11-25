@@ -1,6 +1,6 @@
 <!-- Typing animation flair (all lines appear at once) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=00FF00&center=true&width=600&lines=Hi,+I'm+Ioannis+Tsiros+(Turmoil);42+Heilbronn+Student;Aspiring+Backend+Engineer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=00FF00&center=true&width=600&lines=Hi,+I'm+Ioannis+Tsiros;42+Heilbronn+Student;Aspiring+Software+Engineer" alt="Typing SVG"/>
 </p>
 
 
