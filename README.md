@@ -73,7 +73,7 @@ Once the HTTP server is complete, moving on to building my own Twitter-like back
 ## ❤️ Fun Facts
 
 <pre>
-tsironi93@github:~$ echo I use ARC... BTW!!!
+tsironi93@github:~$ echo I use ARCH... BTW!!!
 tsironi93@github:~$ echo "Not afraid to :q!"
 </pre>
 
