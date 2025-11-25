@@ -13,7 +13,7 @@
 
 ---
 
-## 🌐 Let's get connected:
+## 🌐 Let's get connected
 
 [![Email](https://img.shields.io/badge/Email-jtsiros93%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtsiros93@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ioannis%20Tsiros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-tsiros-708011210/)
