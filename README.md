@@ -85,14 +85,6 @@ tsironi93@github:~$ echo "Not afraid to :q!"
 
 ---
 
-## 📊 GitHub Stats
-
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsironi93&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=tsironi93i&theme=tokyonight" alt="tsironi" />
-
-
----
-
 ## 🧭 Philosophy
 
 > *"Learn by building. Break things, fix things, understand things."*  
