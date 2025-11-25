@@ -87,8 +87,8 @@ tsironi93@github:~$ echo "Not afraid to :q!"
 
 ## 📊 GitHub Stats
 
-![Ioannis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=turmoil&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turmoil&layout=compact&theme=tokyonight)
+![Ioannis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsironi93&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsironi93&layout=compact&theme=tokyonight)
 <h2> Github Stats </h2> 
 <a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
